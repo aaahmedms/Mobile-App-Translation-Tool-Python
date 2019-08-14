@@ -1,9 +1,10 @@
-# Mobile_App_Translation_Tool_Python
-A python based translation tool that uses mouuff mtranslate library to translate title, and descriptions in a text file to 80 different languages using googles api.
+Simple and fast, what else?
 
-# How to use:
-Input text underneath the strings with the "[]" characters on "longdesc.txt". Run the .exe file and it will output a translated text file titled "translation_output.txt". 
+Fully working Google Translate API
+for python E2 and java
 
-Use the tool at your own risk.
+as simple as that:
+translate("Bonjour","en","auto") will return "Hello"
 
-<img src="screenshots/screen1.png"  height="400" />
+Also on PyPi:
+https://pypi.python.org/pypi?:action=display&name=mtranslate&version=1.3
